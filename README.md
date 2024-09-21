@@ -68,6 +68,8 @@ print("잔액보기는 1, 입금은 2, 출금은 3을 누르세요")
         else:
             print("출금이 완료되었습니다.")
             db[userNum][1][userName] -= money
+<br><br><br><br>
+# Test
 <br><br>
 온라인 파이썬 인터프레터로 맨 윗줄의 db를 베이스로 테스트 해보았다.
 <br><br>
@@ -80,5 +82,4 @@ print("잔액보기는 1, 입금은 2, 출금은 3을 누르세요")
 
     
    
-# 예제
-solution(1)    
+
